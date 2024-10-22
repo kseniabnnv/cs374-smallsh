@@ -1,6 +1,6 @@
 # smallsh - A Simple Shell in C
 
-`smallsh` is a custom shell program written in C that implements a subset of features found in modern shells like `bash`. This project demonstrates basic shell functionalities such as command execution, input/output redirection, foreground/background process handling, and custom signal management.
+`smallsh` is a custom shell program written in C that implements a subset of features found in modern shells like `bash`.
 
 ## Features
 
